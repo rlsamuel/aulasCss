@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+CU:wght@100..400&family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap');
+p{
+    font-family: "Playwrite CU", cursive;
+    color:#F2C879;
+    font-size: 10px;
+}
+
+
+body{
+    background-color :cadetblue  ;
+}
