@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&family=Playwrite+CU:wght@100..400&family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap');
+
+.par{
+     color:maroon;
+     font-family: "Nerko One", cursive;
+   text-align: justify;
+   font-size: 50px;
+   font-style: italic;
+     
+}
+
+.h222{
+    color: brown;
+    text-align: center;
+    font-size: larger;
+    font-size:45px;
+}
+
+h1{
+    text-align: center;
+    text-shadow: 10px 10px 10px #3C2F80;
+    line-height: 250%;
+    font-size: 100px;
+}
+body{
+    background-color: bisque;
+}
+
