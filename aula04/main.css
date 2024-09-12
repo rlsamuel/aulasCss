@@ -1,0 +1,28 @@
+.titulo{
+    font-size: larger;
+}
+
+
+.sombra{
+   filter: drop-shadow(5px 5px 5px #3C2F80);
+}
+
+.italico{
+    font-style: italic;
+}
+
+#ola{
+    color: aqua;
+}
+
+#alo{
+    color: blue;
+}
+
+#eai{
+    color: chartreuse;
+
+}
+ #paragrafos{
+    background-color: darkgray;
+ }

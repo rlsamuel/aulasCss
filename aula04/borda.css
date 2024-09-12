@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Nerko+One&family=Playwrite+CU:wght@100..400&family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap');
+
+
+#fome :hover {
+    border-width: 3px;
+    border-style: groove;
+    border-color :#8C8C8C;
+    background-color:#262626;
+    filter: drop-shadow(5px 5px 5px  #514EA6);
+    width: 500px;
+    border-radius: 20px;
+    
+    
+    
+    
+   
+   }
+
+   p{
+    color:#9373D9
+    ;
+    text-align: center;
+   }
+   body{
+    display: flex;
+    justify-content: center;
+    
+    font-family: "Anton", sans-serif;
+    text-shadow: 1.2px 1px 0.4px #8C8C8C;
+   font-size: 100px;
+   
+   }
+   
