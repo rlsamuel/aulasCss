@@ -1,0 +1,54 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.caixa1{
+    border-top: dotted red;
+    border-right: solid 5px red ;
+    border-bottom: solid 15px red;
+    border-left: solid 5px red;
+    background-color: black;
+    width: 500px;
+    margin: 30px;
+   
+}
+.p11{
+margin-left: 30px;
+color: aliceblue;
+margin-top: 10px;
+margin-bottom: 10px;
+
+}
+ .h22{
+color: aliceblue;
+margin-left:30px ;
+margin-bottom: 0px;
+margin-top: 10px;
+ }
+
+ .p22{
+    margin-left: 30px;
+ }
+ .h33{
+    margin-left: 30px;
+ }
+
+ .butao{
+  background-color: black;
+  color: aliceblue;
+  padding: 5px 15px;
+  margin-left: 30px;
+  text-decoration: none;
+  line-height: 200%;
+ 
+  
+  
+ }
+
+ .caixa2{
+    margin: 20px;
+ }
+ section{
+    background-color: darkgrey;
+ }
