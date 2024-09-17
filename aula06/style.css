@@ -1,0 +1,11 @@
+*{
+    margin:2em;
+}
+img{
+    float: right;
+    border: solid 7px greenyellow;
+}
+div{
+    border: solid 1px rebeccapurple;
+    overflow: auto;
+}
