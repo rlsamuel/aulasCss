@@ -1,12 +1,18 @@
 .primeiro{
+    float: left;
+    color: blue;
+}
+.segundo{
     float: right;
+    color: aqua;
+}
+div{
+    margin: 10px;
+    width: 25vw;
+}
+section{
+    border: solid 3px rebeccapurple;
 }
 img{
-    display: flex;
-    float:right ;
-}
-
-.segundo{
-    
-
+    margin-left: 300px;
 }
