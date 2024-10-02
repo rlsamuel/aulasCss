@@ -1,0 +1,52 @@
+
+body{
+    background-color: darkgray;
+}
+
+.container{
+    height: 1000px;
+    width: 1000px;
+    margin: 25px auto;
+    border: solid 6px aliceblue;
+    display: grid;
+    grid-template-columns: repeat(5, 200px) ;
+    grid-template-rows: repeat(5, 200px);
+    grid-template-areas: 
+    "header header header header header"
+    "aside main main main footer"
+    "aside main main main footer"
+    "rodape rodape canto canto canto"
+    "baixo baixo baixo baixo baixo"
+  ;
+
+
+}
+.box1{
+    grid-area:header;
+    background-color: aquamarine;
+}
+
+.box2{
+    grid-area:aside;
+    background-color: brown;
+}
+.box3{
+    grid-area:main;
+    background-color: bisque;
+}
+.box4{
+    grid-area:footer;
+    background-color: blueviolet;
+}
+.box5{
+    grid-area:rodape;
+    background-color: darkcyan;
+}
+.box6{
+    grid-area:canto;
+    background-color: cornflowerblue;
+}
+.box7{
+    grid-area:baixo;
+    background-color: darkkhaki;
+}
